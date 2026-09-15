@@ -430,7 +430,3 @@ Follow this step-by-step walkthrough during demonstration to highlight the compl
    - Open the Audit Trail to demonstrate full accountability with chronological timestamps for data ingestion, AI analysis, component views, and human overrides.
 
 ---
-
-## 8. Disclaimer
-
-> **Notice:** This platform is an engineering prototype and decision-support tool. Machine learning predictions, statistical anomaly scores, and drift extrapolations are designed to assist qualified reliability engineers and do not autonomously certify flight hardware or replace standard qualification testing.
